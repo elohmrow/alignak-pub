@@ -9,4 +9,4 @@ wget -O- http://alignak-monitoring.github.io/repos/alignak_pub.key | sudo apt-ke
 apt-key list
 
 # Install Alignak
-sudo apt-get install alignak-all
+sudo apt-get install alignak-all python-crypto
